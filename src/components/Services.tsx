@@ -16,7 +16,7 @@ const Services = () => {
         "Tampas e aplicadores",
         "Componentes de maquiagem"
       ],
-      image: "https://images.unsplash.com/photo-1571646750134-88486d7a22ac?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "Moldes para Farmacêuticos",
@@ -38,7 +38,7 @@ const Services = () => {
         "Sistemas de aplicação",
         "Encaixes e mecanismos"
       ],
-      image: "https://images.unsplash.com/photo-1583947581924-860bda976c57?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1603990103103-baf3ada7af1c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "Moldes para Alimentos",
@@ -49,7 +49,7 @@ const Services = () => {
         "Embalagens sustentáveis",
         "Utensílios e acessórios"
       ],
-      image: "https://images.unsplash.com/photo-1607113086279-28c861337100?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1655354439118-185a1566ba5a?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
     },
   ];
 
