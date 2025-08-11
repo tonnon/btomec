@@ -108,7 +108,7 @@ const Portfolio = () => {
               style={{ animationDelay: `${index * 100}ms` }}
             >
               <div className="relative overflow-hidden">
-                <div className="aspect-w-4 aspect-h-3">
+                <div className="aspect-[4/3]">
                   <img
                     src={project.image}
                     alt={project.title}
